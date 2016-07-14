@@ -3,6 +3,15 @@ source 'https://rubygems.org'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.5.1'
 
+#Include Devise gem for authentication
+gem 'devise'
+
+#Include Bootstrap
+gem 'twitter-bootstrap-rails'
+
+#Include devise bootstrap views
+gem 'devise-bootstrap-views'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 
