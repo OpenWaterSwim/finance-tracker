@@ -12,6 +12,9 @@ gem 'twitter-bootstrap-rails'
 #Include devise bootstrap views
 gem 'devise-bootstrap-views'
 
+#Include stock_quote
+gem 'stock_quote'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 
